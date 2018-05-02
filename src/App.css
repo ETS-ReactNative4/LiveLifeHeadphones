@@ -1,0 +1,436 @@
+.App {
+  background-color:white;
+  height: 700px;
+  display: flex;
+  flex-direction: column;
+}
+
+.top {
+  height: 150px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 70px;
+  width: 1500px;
+}
+
+ .topright {
+  height: 150px;
+  width: 150px;
+  background-image: url("../src/IMG_3818.PNG");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  margin-left: 55px;
+ }
+
+.tab {
+  width: 600px;
+  background-color: white;
+  height: 100px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  justify-content: space-around;
+  font-size: 20px;
+  padding-left: 150px;
+  font-weight: bold;
+}
+
+.middle {
+  background-color: white;
+  height: 500px;
+  display: flex;
+
+}
+
+.phrase {
+    background-color: white;
+    height: 200px;
+    width: 450px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+    margin-left: 100px;
+    font-size: 60px;
+    font-weight: bold;  
+}
+
+.phrase5 {
+    background-color: white;
+    height: 200px;
+    width: 450px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 80px;
+    margin-left: 100px;
+    font-size: 60px;
+    font-weight: bold;
+}
+
+.BuyTix {
+  background-color: black;
+  color: white;
+  width: 140px;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px;
+}
+
+.Live {
+  width: 150px;
+  background-color: white;
+   position: relative;
+font-family: 'Indie Flower', cursive;
+font-size: 90px;
+margin-bottom: -30px;
+}
+
+.Life {
+  width: 150px;
+  background-color: white;
+   position: relative;
+font-family: 'Indie Flower', cursive;
+font-size: 90px;
+margin-bottom: -30px;
+}
+
+.Headphones {
+  position: relative;
+  background-color: white;
+font-family: 'Indie Flower', cursive;
+font-size: 80px;
+margin-bottom: -15px;
+width: 490px;
+}
+
+.phrase2 {
+    background-color: white;
+    height: 200px;
+    width: 450px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 100px;
+    margin-left: 50px;
+    font-size: 60px;
+    font-weight: bold;
+    position: relative;
+}
+
+.phrase4 {
+    background-color: white;
+    height: 200px;
+    width: 450px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 100px;
+    font-size: 60px;
+    font-weight: bold;
+    position: relative;
+    margin-left: 10px;
+}
+
+.pic {
+    background-color: black;
+    height: 400px;
+    width: 1150px;
+    background-size: 100% 100%;
+    margin-left: -300px; 
+}
+
+.KFD {
+   position: fixed;
+  top: 50%;
+  left: 50%;
+  min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: auto;
+  z-index: -100;
+  transform: translate(-50%, -50%);
+}
+
+.pic2 {
+    height: 400px;
+    width: 940px;
+    margin-left: 100px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.pic3 {
+    height: 400px;
+    width: 940px;
+    margin-left: 100px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.pic4 {
+    background-color: slategrey;
+    height: 100px;
+    width: 850px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    display: flex;
+   }
+
+   .pic5 {
+    height: 370px;
+    width: 750px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    display: flex;
+    margin-left: 80px;
+    flex-direction: column;
+    justify-content: center;
+    border: 5px solid black;
+  
+   }
+
+.howto{
+  background-color: black;
+  height: 80px;
+  width: 1250px;
+  margin-top: 10px;
+  margin-left: 130px;
+  display: flex;
+  flex-direction: column;
+  font-size: 80px;
+  color: white;
+  justify-content: center;
+  align-items: center;
+    font-family: 'Indie Flower', cursive;
+
+}
+
+.gallery {
+  height: 190px;
+  width: 215px;
+  margin-left: 10px;
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  color: white;
+}
+
+.gallery2 {
+  height: 350px;
+  width: 210px;
+  margin: 10px;
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  color: white;
+}
+
+.gallery3{
+  height: 190px;
+  width: 215px;
+  margin: 10px;
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  color: white;
+}
+
+.bottom {
+    background-color: white;
+    width: 1500px;
+    height: 100px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.bottomleft {
+  width: 550px;
+  height: 100px;
+  background-color: white;
+  display: flex;
+  font-size: 30px;
+  justify-content: center;
+  justify-content: space-around;
+  align-items: center;
+  text-decoration: none;
+}
+
+.bottomright {
+  width: 450px;
+  height: 100px;
+  display: flex;
+  font-size: 10px;
+  justify-content: flex-end;
+  justify-content: space-around;
+  align-items: center;
+  font-weight: bold;
+}
+
+.knot {
+  text-decoration: none;
+  font: black;
+  font-weight: bold;
+  color: black;
+}
+
+.party1 {
+  background-image: url("../src/encore.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%; 
+  height: 190px;
+  width: 215px;
+}
+
+
+.party2 {
+  background-image: url("../src/encore2.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%; 
+  height: 190px;
+  width: 215px;
+}
+
+
+
+.party3 {
+  background-image: url("../src/encore3.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%; 
+  height: 190px;
+  width: 215px;
+}
+
+
+
+.party5 {
+  background-image: url("../src/encore5.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%; 
+  height: 190px;
+  width: 215px;
+}
+
+.UE1 {
+  background-image: url("../src/encore5.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%; 
+  height: 350px;
+  width: 210px;
+}
+
+.UE2 {
+  background-image: url("../src/encore3.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%; 
+  height: 350px;
+  width: 210px;
+}
+
+.midright {
+  display: flex;
+  flex-direction: column;
+}
+
+.whoweserve {
+  font-family: 'Indie Flower', cursive;
+  font-size: 120px;
+}
+
+.home {
+  text-decoration: underline;
+ 
+  font: bolder;
+}
+
+.contactus {
+    font-family: 'Indie Flower', cursive;
+      text-decoration: underline;
+}
+
+.cu2 {
+      font-family: 'Indie Flower', cursive;
+      font-size: 30px;
+}
+
+.Name {
+  margin-left: 20px;
+        font-family: 'Indie Flower', cursive;
+        font-size: 30px;
+
+}
+
+.Email {
+  margin-left: 20px;
+        font-family: 'Indie Flower', cursive;
+        font-size: 30px;
+
+}
+
+.Message {
+  margin-left: 20px;
+  margin-bottom: 30px;
+        font-family: 'Indie Flower', cursive;
+        font-size: 30px;
+
+}
+
+.Namebox {
+  margin-left: 72px;
+  width: 400px;
+}
+
+.Emailbox {
+  margin-left: 75px;
+  margin-top: 30px;
+  width: 400px;
+}
+
+.Messagebox {
+  margin-left: 20px;
+  margin-top: 50px;
+  width: 400px;
+  height: 110px;
+}
+
+.button {
+  width: 100px;
+  margin-left: 600px;
+}
+
+
+
+
+.KF {
+  width: 1140px;
+  height: 400px;
+}
+
+
+
+
+.header-unit {
+    height: 150px;
+    border: 2px solid #000;
+    border-right:none;
+    border-left: none;
+    position: relative;
+    padding: 20px;
+    width: 600px;
+}
+#video-container {
+    position: absolute;
+}
+#video-container {
+    top:0%;
+    left:0%;
+    height:100%;
+    width:100%;
+    overflow: hidden;
+}
+video {
+    position:absolute;
+    z-index:0;
+}
+video.fillWidth {
+    width: 100%;
+}
