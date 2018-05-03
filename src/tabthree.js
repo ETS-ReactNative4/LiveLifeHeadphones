@@ -39,12 +39,22 @@ class tabtwo extends Component {
             <div className="bottom">
              <div className="bottomleft">
              
-          <Link className= "knot" to="/">O</Link>
-          <Link className= "knot"  to="/tabtwo">O</Link>
-          <Link className= "knot"  to="/tabthree">O</Link>
-          <Link className= "knot"  to="/tabfour">O</Link>
-          <Link className= "knot"  to="/tabfive">O</Link>
-  
+       <Link className= "knot" to="/">
+            <i class="fas fa-minus"></i>
+          </Link>
+          <Link className= "knot"  to="/tabtwo">
+            <i class="fas fa-minus"></i>
+          </Link>
+          <Link className= "knot"  to="/tabthree">
+            <i class="fas fa-minus"></i>
+            <i class="fas fa-angle-double-up"></i>
+          </Link>
+          <Link className= "knot"  to="/tabfour">
+            <i class="fas fa-minus"></i>
+          </Link>
+          <Link className= "knot"  to="/tabfive">
+            <i class="fas fa-minus"></i>
+          </Link>
      
 
         

@@ -24,37 +24,39 @@ class App extends Component {
           <div className="middle">
           <div className="phrase">
             <div className="Live">LIVE</div>
+             
             <div className="Life">LIFE</div>
             <div className="Headphones">HEADPHONES</div>
             </div>
            
            <div className="pic">
-              <div className="video-container">
-              {/* <video  width="1150" height="400" controls>
-                <source  src="https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4"
-  type="video/mp4" />
-                  Your browser does not support the video tag.
-              </video> */}
-               {/* <iframe className=" KF" src="https://archive.org/embed/KFDrop.mp4" width="840" height="400" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe> */}
-               <iframe className="KF"src="https://player.vimeo.com/video/267442392?autoplay=1&loop=1" frameborder="0" webkitallowfullscreen mozallowfullscreen="true" allowfullscreen></iframe>
-               </div>
-
-        
-            </div> 
-
+              
+             <iframe className="KF"src="https://player.vimeo.com/video/267727535?autoplay=1&loop=1" width="1140" height="643" frameborder="0" webkitallowfullscreen mozallowfullscreen="true" allowfullscreen></iframe>
              
+          </div> 
 
            </div>
            <div className="bottom">
              <div className="bottomleft">
              
-          <Link className= "knot" to="/">O</Link>
-          <Link className= "knot"  to="/tabtwo">O</Link>
-          <Link className= "knot"  to="/tabthree">O</Link>
-          <Link className= "knot"  to="/tabfour">O</Link>
-          <Link className= "knot"  to="/tabfive">O</Link>
+          <Link className= "knot" to="/">
+            <i class="fas fa-minus"></i>
+            <i class="fas fa-angle-double-up"></i>
+          </Link>
+          <Link className= "knot"  to="/tabtwo">
+            <i class="fas fa-minus"></i>
+          </Link>
+          <Link className= "knot"  to="/tabthree">
+            <i class="fas fa-minus"></i>
+          </Link>
+          <Link className= "knot"  to="/tabfour">
+            <i class="fas fa-minus"></i>
+          </Link>
+          <Link className= "knot"  to="/tabfive">
+            <i class="fas fa-minus"></i>
+          </Link>
   
-     
+   
 
         
               </div>

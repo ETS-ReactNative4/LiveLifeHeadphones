@@ -10,7 +10,7 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin-top: 70px;
+  margin-top: 20px;
   width: 1500px;
 }
 
@@ -40,6 +40,7 @@
   background-color: white;
   height: 500px;
   display: flex;
+  margin-top:20px;
 
 }
 
@@ -82,7 +83,7 @@
   width: 150px;
   background-color: white;
    position: relative;
-font-family: 'Indie Flower', cursive;
+font-family: 'Fjalla One', sans-serif;
 font-size: 90px;
 margin-bottom: -30px;
 }
@@ -91,7 +92,7 @@ margin-bottom: -30px;
   width: 150px;
   background-color: white;
    position: relative;
-font-family: 'Indie Flower', cursive;
+font-family: 'Fjalla One', sans-serif;
 font-size: 90px;
 margin-bottom: -30px;
 }
@@ -99,7 +100,7 @@ margin-bottom: -30px;
 .Headphones {
   position: relative;
   background-color: white;
-font-family: 'Indie Flower', cursive;
+font-family: 'Fjalla One', sans-serif;
 font-size: 80px;
 margin-bottom: -15px;
 width: 490px;
@@ -201,7 +202,7 @@ width: 490px;
   color: white;
   justify-content: center;
   align-items: center;
-    font-family: 'Indie Flower', cursive;
+    font-family: 'Fjalla One', sans-serif;
 
 }
 
@@ -271,6 +272,8 @@ width: 490px;
   font: black;
   font-weight: bold;
   color: black;
+  display: flex;
+  flex-direction: column;
 }
 
 .party1 {
@@ -343,25 +346,25 @@ width: 490px;
 }
 
 .contactus {
-    font-family: 'Indie Flower', cursive;
+    font-family: 'Fjalla One', sans-serif;
       text-decoration: underline;
 }
 
 .cu2 {
-      font-family: 'Indie Flower', cursive;
+      font-family: 'Fjalla One', sans-serif;
       font-size: 30px;
 }
 
 .Name {
   margin-left: 20px;
-        font-family: 'Indie Flower', cursive;
+        font-family: 'Fjalla One', sans-serif;
         font-size: 30px;
 
 }
 
 .Email {
   margin-left: 20px;
-        font-family: 'Indie Flower', cursive;
+        font-family: 'Fjalla One', sans-serif;
         font-size: 30px;
 
 }
@@ -369,7 +372,7 @@ width: 490px;
 .Message {
   margin-left: 20px;
   margin-bottom: 30px;
-        font-family: 'Indie Flower', cursive;
+        font-family: 'Fjalla One', sans-serif;
         font-size: 30px;
 
 }
@@ -403,6 +406,7 @@ width: 490px;
 .KF {
   width: 1140px;
   height: 400px;
+    background-size: 100% 100%; 
 }
 
 
