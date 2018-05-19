@@ -1,8 +1,10 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
-import {Link} from 'react-router-dom';
+import {Link, Route} from 'react-router-dom';
 import tabtwo from './tabtwo'
+import aboutus from './aboutus'
+
 
 class App extends Component {
   render() {
@@ -11,22 +13,24 @@ class App extends Component {
         
         <div className="top">
       
-          <Link className="topright" to="/">
-          </Link>
+          <Link className="topright" to="/"></Link>
+          <div className="HeadLogo"> LIVE LIFE HEADPHONES </div>
           <div className="tab">
-              <p> Home </p>
-              <p> About Us </p>
-              <p className="BuyTix"> Buy Tickets </p>
-
+            <div className="tabdiff">
+              <Link className="H2" to="/"> Home </Link>
+              <Link className="H2" to="/aboutus"> About Us </Link>
+              <a className="BuyTix" href ="https://www.eventbrite.com/o/live-life-headphones-16549205162"> Buy Tickets </a>
+            </div>
+              <div className="bar"/>
           </div>
         </div>
           
           <div className="middle">
           <div className="phrase">
-            <div className="Live">LIVE</div>
+            <div className="Live">COME</div>
              
-            <div className="Life">LIFE</div>
-            <div className="Headphones">HEADPHONES</div>
+            <div className="Life">BE</div>
+            <div className="Headphones">YOURSELF</div>
             </div>
            
            <div className="pic">
@@ -38,33 +42,36 @@ class App extends Component {
            </div>
            <div className="bottom">
              <div className="bottomleft">
-             
-          <Link className= "knot" to="/">
-            <i class="fas fa-minus"></i>
-            <i class="fas fa-angle-double-up"></i>
-          </Link>
-          <Link className= "knot"  to="/tabtwo">
-            <i class="fas fa-minus"></i>
-          </Link>
-          <Link className= "knot"  to="/tabthree">
-            <i class="fas fa-minus"></i>
-          </Link>
-          <Link className= "knot"  to="/tabfour">
-            <i class="fas fa-minus"></i>
-          </Link>
-          <Link className= "knot"  to="/tabfive">
-            <i class="fas fa-minus"></i>
-          </Link>
-  
+              <div className="BLT"/>
+             <div className="BLB">
+                             <div> Enter Here </div>
+
+                <Link className= "knot" to="/">
+                
+                  <i class="fas fa-caret-square-right"></i>
+                </Link>
+                <Link className= "knot"  to="/tabtwo">
+                  <i class="far fa-caret-square-right"></i>
+                </Link>
+                <Link className= "knot"  to="/tabthree">
+                  <i class="far fa-caret-square-right"></i>
+                </Link>
+                <Link className= "knot"  to="/tabfour">
+                  <i class="far fa-caret-square-right"></i>
+                </Link>
+                <Link className= "knot"  to="/tabfive">
+                  <i class="far fa-caret-square-right"></i>
+                </Link>
+          </div>
    
 
         
               </div>
-             <div className="bottomright">
-                          <div> FACEBOOK </div>
-              <div> INSTAGRAM </div>
-              <div> EMAIL </div>
-             </div>
+              <div className="bottomright">
+                <a className="BB" href = "https://www.facebook.com/livelie.headphones.3" > FACEBOOK </a>
+                <a className="BB" href = "https://www.instagram.com/livelifeheadphones/?hl=en" > INSTAGRAM </a>
+                <a className="BB" href = "https://twitter.com/Lawless_Ent"> TWITTER </a>
+              </div>
            </div>
        
      

@@ -7,6 +7,7 @@ import tabtwo from './tabtwo';
 import tabthree from './tabthree';
 import tabfour from './tabfour';
 import tabfive from './tabfive';
+import aboutus from './aboutus';
 import {HashRouter as Router, Route, Switch, Link} from 'react-router-dom';
 
 
@@ -19,8 +20,7 @@ ReactDOM.render(
                 <Route path = "/tabthree" component= {tabthree} />
                 <Route path = "/tabfour" component= {tabfour} />
                 <Route path = "/tabfive" component= {tabfive} />
-            
-               
+                <Route path = "/aboutus" component= {aboutus} />
 
             </Switch>
         </div>

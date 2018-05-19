@@ -3,19 +3,18 @@ import logo from './logo.svg';
 import './App.css';
 import {Link} from 'react-router-dom';
 
-
 class tabtwo extends Component {
   render() {
     return (
       <div className="App">
-     
-         <div className="top">
+        
+        <div className="top">
       
-          <Link className="topright" to = "/">
-          </Link>
-                    <div className="HeadLogo"> LIVE LIFE HEADPHONES </div>
+          <Link className="topright" to="/"></Link>
+                   <div className="HeadLogo"> LIVE LIFE HEADPHONES </div>
 
-            <div className="tab">
+        
+          <div className="tab">
             <div className="tabdiff">
               <Link className="H2" to="/"> Home </Link>
               <Link className="H2" to="/aboutus"> About Us </Link>
@@ -24,33 +23,17 @@ class tabtwo extends Component {
               <div className="bar"/>
           </div>
         </div>
-
-          <div className="middle">
-          <div className="phrase">
-            <div className="Live">WHAT</div>
-             
-            <div className="Life">WE</div>
-            <div className="Headphones">DO</div>
-            </div>
-        <div className="midright">
-
-           <div className="howto2"> PROMS</div>
-            <div className="howto2"> PARTIES</div>
-            
-             <div className="howto2"> CONCERTS</div>
-             <div className="howto2"> WEDDINGS</div>
-
-             <div className="howto2"> SKATE NIGHTS</div>
-             <div className="howto2"> ARTIST MUSIC RELEASES</div>
           
-        
-              </div>
-        </div>
-
-        
-
-            <div className="bottom">
-            <div className="bottomleft">
+          <div className="middle">
+               <div className="phrase5">
+                   <div className="contactus">ABOUT US</div>
+            <div className="cu2">
+              Live Life Headphones which is an event planning company that provides an innovative experience to those of all ages while using music, lighting, and wireless technology.
+            </div>
+            </div>
+            </div>
+           <div className="bottom">
+        <div className="bottomleft">
               <div className="BLT"/>
              <div className="BLB">
                 <Link className= "knot" to="/">
@@ -61,7 +44,7 @@ class tabtwo extends Component {
                   <i class="far fa-caret-square-right"></i>
                 </Link>
                 <Link className= "knot"  to="/tabthree">
-                  <i class="fas fa-caret-square-right"></i>
+                  <i class="far fa-caret-square-right"></i>
                 </Link>
                 <Link className= "knot"  to="/tabfour">
                   <i class="far fa-caret-square-right"></i>
@@ -74,13 +57,12 @@ class tabtwo extends Component {
 
         
               </div>
-                 <div className="bottomright">
+           <div className="bottomright">
                 <a className="BB" href = "https://www.facebook.com/livelie.headphones.3" > FACEBOOK </a>
                 <a className="BB" href = "https://www.instagram.com/livelifeheadphones/?hl=en" > INSTAGRAM </a>
                 <a className="BB" href = "https://twitter.com/Lawless_Ent"> TWITTER </a>
               </div>
            </div>
-    
        
      
       </div>

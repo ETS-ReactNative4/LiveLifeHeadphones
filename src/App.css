@@ -10,7 +10,6 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin-top: 20px;
   width: 1500px;
 }
 
@@ -24,34 +23,58 @@
  }
 
 .tab {
-  width: 600px;
+  width: 950px;
+  background-color: white;
+  height: 200px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.tabdiff {
+   width: 400px;
   background-color: white;
   height: 100px;
   display: flex;
+  padding-left: 550px;
   flex-direction: row;
-  justify-content: flex-end;
   justify-content: space-around;
   font-size: 20px;
-  padding-left: 150px;
   font-weight: bold;
 }
+
+   .bar {
+     width: 990px;
+     height: 10px;
+     background-color: black;
+     display: flex;
+     justify-content: flex-end;
+     margin-bottom: 20px;
+   }
 
 .middle {
   background-color: white;
   height: 500px;
   display: flex;
   margin-top:20px;
+   visibility: visible;
+  opacity: 1;
+  transition: opacity 5s linear;
 
 }
 
+
+
 .phrase {
     background-color: white;
-    height: 200px;
+    height: 400px;
     width: 450px;
     display: flex;
     flex-direction: column;
-    margin-top: 10px;
-    margin-left: 100px;
+    margin-top: 50px;
+    margin-left: 150px;
     font-size: 60px;
     font-weight: bold;  
 }
@@ -59,14 +82,18 @@
 .phrase5 {
     background-color: white;
     height: 200px;
-    width: 450px;
+    width: 780px;
     display: flex;
     flex-direction: column;
     margin-top: 80px;
-    margin-left: 100px;
+    margin-left: 300px;
     font-size: 60px;
     font-weight: bold;
 }
+  .carousel {
+    height: 400px;
+    width: 800px;
+  }
 
 .BuyTix {
   background-color: black;
@@ -77,33 +104,47 @@
   justify-content: center;
   align-items: center;
   margin-top: 10px;
+  text-decoration: none;
+  font-family: 'Poppins', sans-serif;
 }
 
 .Live {
-  width: 150px;
+  width: 220px;
   background-color: white;
    position: relative;
-font-family: 'Fjalla One', sans-serif;
-font-size: 90px;
-margin-bottom: -30px;
+font-family: 'Poppins', sans-serif;
+font-size: 70px;
 }
 
 .Life {
-  width: 150px;
+  width: 90px;
   background-color: white;
    position: relative;
-font-family: 'Fjalla One', sans-serif;
-font-size: 90px;
-margin-bottom: -30px;
+font-family: 'Poppins', sans-serif;
+font-size: 70px;
 }
 
 .Headphones {
+  font-weight: 800;
   position: relative;
   background-color: white;
-font-family: 'Fjalla One', sans-serif;
-font-size: 80px;
-margin-bottom: -15px;
-width: 490px;
+font-family: 'Poppins', sans-serif;
+font-size: 70px;
+width: 360px;
+}
+
+.HeadLogo {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 200;
+font-size: 50px;
+width: 700px;
+height: 150px;
+display: flex;
+justify-content: flex-end;
+position: absolute;
+margin-left: 140px;
+margin-top: 40px;
+color: black;
 }
 
 .phrase2 {
@@ -190,30 +231,48 @@ width: 490px;
   
    }
 
+
+
 .howto{
   background-color: black;
-  height: 80px;
+  height: 50px;
   width: 1250px;
   margin-top: 10px;
   margin-left: 130px;
   display: flex;
   flex-direction: column;
-  font-size: 80px;
+  font-size: 50px;
   color: white;
   justify-content: center;
   align-items: center;
-    font-family: 'Fjalla One', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
 
+.howto2{
+  background-color: black;
+  height: 50px;
+  width: 850px;
+  margin-top: 10px;
+  display: flex;
+  flex-direction: column;
+  font-size: 50px;
+  color: white;
+  justify-content: center;
+  align-items: center;
+    font-family: 'Poppins', sans-serif;
 }
 
 .gallery {
-  height: 190px;
+  height: 170px;
   width: 215px;
   margin-left: 10px;
-  background-color: black;
+  background-color:white;
   display: flex;
   flex-direction: column;
-  color: white;
+  color: black;
+  text-decoration: none;
+      font-family: 'Poppins', sans-serif;
+
 }
 
 .gallery2 {
@@ -224,6 +283,14 @@ width: 490px;
   display: flex;
   flex-direction: column;
   color: white;
+}
+
+.container {
+  padding: 40px;
+  width: 80%;
+  color: #333;
+  background: #419be0;
+  height: 300px;
 }
 
 .gallery3{
@@ -242,6 +309,7 @@ width: 490px;
     height: 100px;
     display: flex;
     justify-content: space-around;
+    margin-top: -30px;
 }
 
 .bottomleft {
@@ -254,6 +322,7 @@ width: 490px;
   justify-content: space-around;
   align-items: center;
   text-decoration: none;
+  flex-direction: column;
 }
 
 .bottomright {
@@ -265,6 +334,7 @@ width: 490px;
   justify-content: space-around;
   align-items: center;
   font-weight: bold;
+  text-decoration: none;
 }
 
 .knot {
@@ -296,10 +366,10 @@ width: 490px;
 
 
 .party3 {
-  background-image: url("../src/encore3.jpg");
-  background-repeat: no-repeat;
-  background-size: 100% 100%; 
-  height: 190px;
+  background-image: url("../src/encore3.png");
+   background-repeat: no-repeat;
+  background-size: 100% 100%;  
+  height: 360px;
   width: 215px;
 }
 
@@ -346,25 +416,24 @@ width: 490px;
 }
 
 .contactus {
-    font-family: 'Fjalla One', sans-serif;
-      text-decoration: underline;
+    font-family: 'Poppins', sans-serif;
 }
 
 .cu2 {
-      font-family: 'Fjalla One', sans-serif;
+      font-family: 'Poppins', sans-serif;
       font-size: 30px;
 }
 
 .Name {
   margin-left: 20px;
-        font-family: 'Fjalla One', sans-serif;
+        font-family: 'Poppins', sans-serif;
         font-size: 30px;
 
 }
 
 .Email {
   margin-left: 20px;
-        font-family: 'Fjalla One', sans-serif;
+        font-family: 'Poppins', sans-serif;
         font-size: 30px;
 
 }
@@ -372,7 +441,7 @@ width: 490px;
 .Message {
   margin-left: 20px;
   margin-bottom: 30px;
-        font-family: 'Fjalla One', sans-serif;
+        font-family: 'Poppins', sans-serif;
         font-size: 30px;
 
 }
@@ -400,13 +469,70 @@ width: 490px;
   margin-left: 600px;
 }
 
+.H2 {
+  color: black;
+  text-decoration: none;
+  margin-top: 20px;
+  font-family: 'Poppins', sans-serif;
+}
 
+.H3 {
+  color: black;
+  margin-top: 20px;
+  font-family: 'Poppins', sans-serif;
+  margin-left: 80px;
+  font-size: 35px;
+  font-weight: 900;
+}
+
+.aboutus {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  font-size: 70px;
+  font-family: 'Poppins', sans-serif;
+
+}
+
+.red{
+  color: red;
+  font-weight: 500;
+}
 
 
 .KF {
   width: 1140px;
   height: 400px;
     background-size: 100% 100%; 
+}
+
+.BB {
+  text-decoration: none;
+  color: black;
+    font-family: 'Poppins', sans-serif;
+font-size: 12px;
+}
+
+.BD {
+  text-decoration: none;
+  color: black;
+    font-family: 'Poppins', sans-serif;
+font-size: 20px;
+font-weight: 400;
+}
+
+.BLT {
+  width: 990px;
+     height: 10px;
+     background-color: black;
+     display: flex;
+     justify-content: flex-end;
+}
+
+.BLB {
+  display: flex;
+  justify-content: space-around;
+  width: 500px;
 }
 
 
