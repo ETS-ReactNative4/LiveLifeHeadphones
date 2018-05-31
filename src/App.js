@@ -35,8 +35,8 @@ class App extends Component {
            
            <div className="pic">
               
-             <iframe className="KF"src="https://player.vimeo.com/video/267727535?autoplay=1&loop=1" width="1140" height="643" frameborder="0" webkitallowfullscreen mozallowfullscreen="true" allowfullscreen></iframe>
-             
+             {/* <iframe className="KF"src="https://player.vimeo.com/video/270964915?&autoplay=1&loop=1" width="1140" height="643" frameborder="0" webkitallowfullscreen mozallowfullscreen="true" allowfullscreen></iframe> */}
+             <iframe src="https://player.vimeo.com/video/271002021?title=0&byline=0&portrait=0&autoplay=1&loop=1" width="1140" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen="true" allowfullscreen></iframe>
           </div> 
 
            </div>
@@ -44,7 +44,7 @@ class App extends Component {
              <div className="bottomleft">
               <div className="BLT"/>
              <div className="BLB">
-                             <div> Enter Here </div>
+                <Link className="BLC" to="/tabtwo"> ENTER </Link>
 
                 <Link className= "knot" to="/">
                 
@@ -70,7 +70,7 @@ class App extends Component {
               <div className="bottomright">
                 <a className="BB" href = "https://www.facebook.com/livelie.headphones.3" > FACEBOOK </a>
                 <a className="BB" href = "https://www.instagram.com/livelifeheadphones/?hl=en" > INSTAGRAM </a>
-                <a className="BB" href = "https://twitter.com/Lawless_Ent"> TWITTER </a>
+                <a className="BB" href = "https://twitter.com/ILiveLifeSilent"> TWITTER </a>
               </div>
            </div>
        

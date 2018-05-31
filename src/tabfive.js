@@ -63,7 +63,7 @@ class tabtwo extends Component {
                  <div className="bottomright">
                 <a className="BB" href = "https://www.facebook.com/livelie.headphones.3" > FACEBOOK </a>
                 <a className="BB" href = "https://www.instagram.com/livelifeheadphones/?hl=en" > INSTAGRAM </a>
-                <a className="BB" href = "https://twitter.com/Lawless_Ent"> TWITTER </a>
+                <a className="BB" href = "https://twitter.com/ILiveLifeSilent"> TWITTER </a>
               </div>
            </div>
     

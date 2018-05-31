@@ -22,6 +22,16 @@
   margin-left: 55px;
  }
 
+  .topright:hover {
+  height: 180px;
+  width: 180px;
+  background-image: url("../src/IMG_3818.PNG");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  margin-left: 55px;
+  
+ }
+
 .tab {
   width: 950px;
   background-color: white;
@@ -56,7 +66,7 @@
 
 .middle {
   background-color: white;
-  height: 500px;
+  height: 450px;
   display: flex;
   margin-top:20px;
    visibility: visible;
@@ -65,6 +75,11 @@
 
 }
 
+.photoarrow {
+  width: 293px;
+  display: flex;
+  justify-content: space-between;
+}
 
 
 .phrase {
@@ -108,12 +123,34 @@
   font-family: 'Poppins', sans-serif;
 }
 
+.BuyTix:hover {
+  background-color: black;
+  color: white;
+  width: 140px;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px;
+  text-decoration: none;
+  font-family: 'Poppins', sans-serif;
+  font-size: 22px;
+}
+
 .Live {
   width: 220px;
   background-color: white;
    position: relative;
 font-family: 'Poppins', sans-serif;
 font-size: 70px;
+}
+
+.Live2 {
+  width: 220px;
+  background-color: white;
+   position: relative;
+font-family: 'Poppins', sans-serif;
+font-size: 41px;
 }
 
 .Life {
@@ -209,6 +246,15 @@ color: black;
     flex-wrap: wrap;
 }
 
+.pic3b {
+    height: 400px;
+    width: 940px;
+    margin-left: 100px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 80px;
+}
+
 .pic4 {
     background-color: slategrey;
     height: 100px;
@@ -272,7 +318,18 @@ color: black;
   color: black;
   text-decoration: none;
       font-family: 'Poppins', sans-serif;
+}
 
+.gallery:hover {
+  height: 170px;
+  width: 215px;
+  margin-left: 10px;
+  background-color:white;
+  display: flex;
+  flex-direction: column;
+  color: black;
+  text-decoration: underline;
+  font-family: 'Poppins', sans-serif;
 }
 
 .gallery2 {
@@ -283,6 +340,35 @@ color: black;
   display: flex;
   flex-direction: column;
   color: white;
+}
+.gallery4 {
+  height: 170px;
+  width: 215px;
+  margin-left: 25px;
+  background-color:white;
+  display: flex;
+  font-size: 50px;
+  justify-content: center;
+  justify-content: space-around;
+  align-items: center;
+  text-decoration: none;
+      font-family: 'Poppins', sans-serif;
+
+}
+
+.gallery4:hover {
+  height: 170px;
+  width: 215px;
+  margin-left: 25px;
+  background-color:white;
+  display: flex;
+  font-size: 50px;
+  justify-content: center;
+  justify-content: space-around;
+  align-items: center;
+  text-decoration: none;
+      font-family: 'Poppins', sans-serif;
+
 }
 
 .container {
@@ -337,14 +423,7 @@ color: black;
   text-decoration: none;
 }
 
-.knot {
-  text-decoration: none;
-  font: black;
-  font-weight: bold;
-  color: black;
-  display: flex;
-  flex-direction: column;
-}
+
 
 .party1 {
   background-image: url("../src/encore.jpg");
@@ -476,6 +555,14 @@ color: black;
   font-family: 'Poppins', sans-serif;
 }
 
+.H2:hover {
+  color: black;
+  text-decoration: none;
+  margin-top: 20px;
+  font-family: 'Poppins', sans-serif;
+  font-size: 21px;
+}
+
 .H3 {
   color: black;
   margin-top: 20px;
@@ -513,6 +600,13 @@ color: black;
 font-size: 12px;
 }
 
+.BB:hover {
+  text-decoration: none;
+  color: black;
+    font-family: 'Poppins', sans-serif;
+font-size: 14px;
+}
+
 .BD {
   text-decoration: none;
   color: black;
@@ -535,7 +629,62 @@ font-weight: 400;
   width: 500px;
 }
 
+.BLC {
+      font-family: 'Poppins', sans-serif;
+font-weight: 900;
+text-decoration: none;
+  color: black;
+  display: flex;
+  flex-direction: column;
+  margin-top: -8px;
+}
 
+.BLC:hover {
+      font-family: 'Poppins', sans-serif;
+font-weight: 900;
+text-decoration: none;
+  color: green;
+  display: flex;
+  flex-direction: column;
+  margin-top: -8px;
+
+}
+
+.knot {
+  text-decoration: none;
+  font-weight: 400;
+  color: black;
+  display: flex;
+  flex-direction: column;
+  font-family: 'Poppins', sans-serif;
+}
+
+.knot:hover {
+  text-decoration: wavy;
+  font-weight: 200;
+  color: green;
+  display: flex;
+  flex-direction: column;
+  font-family: 'Poppins', sans-serif;
+}
+
+.knot2 {
+  text-decoration: none;
+  font-weight: 400;
+  color: black;
+  display: flex;
+  flex-direction: column;
+  font-family: 'Poppins', sans-serif;
+}
+
+.knot2:hover {
+  text-decoration: wavy;
+  font-weight: 200;
+  color: blue;
+  display: flex;
+  flex-direction: column;
+  font-family: 'Poppins', sans-serif;
+}
 
 
 .header-unit {

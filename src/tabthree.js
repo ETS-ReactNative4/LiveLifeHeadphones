@@ -27,10 +27,9 @@ class tabtwo extends Component {
 
           <div className="middle">
           <div className="phrase">
-            <div className="Live">WHAT</div>
+            <div className="Live2">Want to host your own Silent Event?</div>
              
-            <div className="Life">WE</div>
-            <div className="Headphones">DO</div>
+           
             </div>
         <div className="midright">
 
@@ -77,7 +76,7 @@ class tabtwo extends Component {
                  <div className="bottomright">
                 <a className="BB" href = "https://www.facebook.com/livelie.headphones.3" > FACEBOOK </a>
                 <a className="BB" href = "https://www.instagram.com/livelifeheadphones/?hl=en" > INSTAGRAM </a>
-                <a className="BB" href = "https://twitter.com/Lawless_Ent"> TWITTER </a>
+                <a className="BB" href = "https://twitter.com/ILiveLifeSilent"> TWITTER </a>
               </div>
            </div>
     

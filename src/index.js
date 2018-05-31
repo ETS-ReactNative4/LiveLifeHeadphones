@@ -4,6 +4,7 @@ import './index.css';
 import App from './App';
 import registerServiceWorker from './registerServiceWorker';
 import tabtwo from './tabtwo';
+import tabtwob from './tabtwob';
 import tabthree from './tabthree';
 import tabfour from './tabfour';
 import tabfive from './tabfive';
@@ -17,6 +18,7 @@ ReactDOM.render(
             <Switch>
                 <Route exact path = "/" component= {App} />
                 <Route path = "/tabtwo" component= {tabtwo} />
+                <Route path = "/tabtwob" component= {tabtwob} />
                 <Route path = "/tabthree" component= {tabthree} />
                 <Route path = "/tabfour" component= {tabfour} />
                 <Route path = "/tabfive" component= {tabfive} />

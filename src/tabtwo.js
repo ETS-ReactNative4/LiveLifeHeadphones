@@ -28,43 +28,49 @@ class tabtwo extends Component {
           <div className="middle">
                <div className="pic3">
             
-                <a className="gallery" href ="https://jesserobinson.smugmug.com/Orange-Crush-ItsJusDarren"> Orange Crush 
-                      <img src="https://photos.smugmug.com/Orange-Crush-ItsJusDarren/New-folder/i-gvBcvrX/0/240bd05e/X2/2%20%281%20of%201%29-X2.jpg" className="gallery">
-                   </img>
-                    </a>
-                    <a className="gallery" href ="https://jesserobinson.smugmug.com/Future-CEO/"> Future CEO 
-                      <img src="https://photos.smugmug.com/Future-CEO/i-PMwLhnx/0/6e6d42d0/M/Future%20CEO-9723-M.jpg" className="gallery">
-                   </img>
-                    </a>
-                    <a className="gallery" href ="https://jesserobinson.smugmug.com/Silent-skate-Party"> Silent Skate Party
+   
+                    <a className="gallery" href ="https://livelifeheadphones.smugmug.com/Silent-skate-Party"> Skate Party Atlanta
                       <img src="https://photos.smugmug.com/Silent-skate-Party/i-DZnCgGt/0/bc31c1fc/XL/MVI_1355-XL.jpg" className="gallery">
                    </img>
                     </a>
-                    <a className="gallery" href ="https://jesserobinson.smugmug.com/Trap---B---AUG-5-5/"> Augusta Trap and B 
+                    <a className="gallery" href ="https://livelifeheadphones.smugmug.com/Trap---B---AUG-5-5/"> 5.5 Trap and B Augusta
                       <img src="https://photos.smugmug.com/Trap---B---AUG-5-5/i-5H5R4Qz/0/5e281bf6/M/DSC_0553-M.jpg" className="gallery">
                    </img>
                     </a>
-                     <a className="gallery" href ="https://jesserobinson.smugmug.com/Silent-Party-Alibi-5518/"> Silent Party Alibi 
+                     <a className="gallery" href ="https://livelifeheadphones.smugmug.com/Silent-Party-Alibi-5518/"> 5.5 Alibi Atlanta
                       <img src="https://photos.smugmug.com/Silent-Party-Alibi-5518/i-2c83kGz/0/1300b292/M/IMG_1112-M.jpg" className="gallery">
                    </img>
                     </a>
-                     <a className="gallery" href ="https://jesserobinson.smugmug.com/Live-Oak-4-25-18/"> Live Oak 
+                     <a className="gallery" href ="https://livelifeheadphones.smugmug.com/Live-Oak-4-25-18/"> 4.25 Live Oak Houston
                       <img src="https://photos.smugmug.com/Live-Oak-4-25-18/i-tcbSjjv/0/f52e42d2/M/DSC_0051-M.jpg" className="gallery">
                    </img>
                     </a>
-                     <a className="gallery" href ="https://jesserobinson.smugmug.com/Aurum-Lounge-Silent-Party-41418/"> Aurum Lounge
+                     <a className="gallery" href ="https://livelifeheadphones.smugmug.com/Aurum-Lounge-Silent-Party-41418/"> 4.14 Aurum Atlanta
                       <img src="https://photos.smugmug.com/Aurum-Lounge-Silent-Party-41418/i-njKHZnn/0/2552d406/M/IMG_0909-M.jpg" className="gallery">
                    </img>
                     </a>
-                     <a className="gallery" href ="https://jesserobinson.smugmug.com/ATL-Silent-Party-Encore-Lounge-31718/"> ATL Silent Party 
-                      <img src="https://photos.smugmug.com/ATL-Silent-Party-Encore-Lounge-31718/i-9gq8sF6/0/1712d74a/M/IMG_0591-M.jpg" className="gallery">
+                     <a className="gallery" href ="https://livelifeheadphones.smugmug.com/ATL-Silent-Party-Encore-Lounge-31718/"> 3.17 Encore Atlanta
+                                           <img src="https://photos.smugmug.com/ATL-Silent-Party-Encore-Lounge-31718/i-9gq8sF6/0/1712d74a/M/IMG_0591-M.jpg" className="gallery">
                    </img>
                     </a>
+                         <a className="gallery" href ="https://livelifeheadphones.smugmug.com/Orange-Crush-2k18/"> 4.21OrangeCrushSavannah
+                                           <img src="https://photos.smugmug.com/Orange-Crush-2k18/i-hztjSjM/0/6c7c00a4/M/IMG_5693-M.jpg" className="gallery">
+                   </img>
+                    </a>
+                      <div className="gallery4">
+                  <Link className="knot2" to="/tabtwo">
+                      <i class="fas fa-arrow-circle-left"></i>
+                   </Link>
+                    <Link className="knot2" to="/tabtwob">
+                      <i class="fas fa-arrow-circle-right"></i>
+                </Link>
+                </div>
                  
             </div>
               <div className="phrase4">
             <div className="Live">PHOTOS</div>
             <div className="Live"></div>
+              
             </div>
          
         </div>
@@ -97,7 +103,7 @@ class tabtwo extends Component {
              <div className="bottomright">
                 <a className="BB" href = "https://www.facebook.com/livelie.headphones.3" > FACEBOOK </a>
                 <a className="BB" href = "https://www.instagram.com/livelifeheadphones/?hl=en" > INSTAGRAM </a>
-                <a className="BB" href = "https://twitter.com/Lawless_Ent"> TWITTER </a>
+                <a className="BB" href = "https://twitter.com/ILiveLifeSilent"> TWITTER </a>
               </div>
            </div>
     

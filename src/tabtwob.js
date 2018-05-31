@@ -26,29 +26,38 @@ class tabtwo extends Component {
         </div>
 
           <div className="middle">
-            <div className="pic3b">
-               <div className="H3">MAY
-                <div className="BD"><big>19</big> Alibi</div>
-               <div className="BD"><big>25</big> Aurum  Atlanta</div>
-
-                <div className="BD"><big>30</big> Live Oak Houston </div>
-
-              </div>
-               <div className="H3">JUNE
-                <div className="BD"> <big>2</big> Encore Atlanta</div>
-                <div className="BD"> <big>9</big> Tribeca  Augusta </div>
-                <div className="BD"> <big>21</big> Golden Glide  Atlanta </div>
-
-              </div>
-               <div className="H3">JULY
-                <div className="BD"> Coming Soon...</div>
-              </div>
+               <div className="pic3">
             
-              
+                <a className="gallery" href ="https://livelifeheadphones.smugmug.com/Silent-Party-Alibi-5202018"> 5/20 Alibi Atlanta
+                      <img src="https://photos.smugmug.com/Silent-Party-Alibi-5202018/i-fncmwLF/0/c8007938/X3/IMG_1578-X3.jpg" className="gallery">
+                   </img>
+                    </a>
+                    <a className="gallery">
+                        </a>
+                     <a className="gallery">
+                        </a>
+                     <a className="gallery">
+                        </a>
+                     <a className="gallery">
+                        </a>
+                     <a className="gallery">
+                        </a>
+                     <a className="gallery">
+                        </a>
+                    <div className="gallery4">
+                  <Link className="knot2" to="/tabtwo">
+                      <i class="fas fa-arrow-circle-left"></i>
+                   </Link>
+                    <Link className="knot2" to="/tabtwob">
+                      <i class="fas fa-arrow-circle-right"></i>
+                </Link>
+                </div>
+                 
             </div>
               <div className="phrase4">
-            <div className="Live">CALENDAR</div>
+            <div className="Live">PHOTOS</div>
             <div className="Live"></div>
+              
             </div>
          
         </div>
@@ -57,19 +66,18 @@ class tabtwo extends Component {
         <div className="bottomleft">
               <div className="BLT"/>
              <div className="BLB">
-
                 <Link className= "knot" to="/">
                 
                   <i class="far fa-caret-square-right"></i>
                 </Link>
                 <Link className= "knot"  to="/tabtwo">
-                  <i class="far fa-caret-square-right"></i>
+                  <i class="fas fa-caret-square-right"></i>
                 </Link>
                 <Link className= "knot"  to="/tabthree">
                   <i class="far fa-caret-square-right"></i>
                 </Link>
                 <Link className= "knot"  to="/tabfour">
-                  <i class="fas fa-caret-square-right"></i>
+                  <i class="far fa-caret-square-right"></i>
                 </Link>
                 <Link className= "knot"  to="/tabfive">
                   <i class="far fa-caret-square-right"></i>
