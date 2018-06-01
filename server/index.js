@@ -1,9 +1,14 @@
 const express = require('express');
 const path = require('path');
 
-const app = express();
+const app = module.exports = express();
 
-app.use('/', express.static(path.join('/desktop/livelifeheadphones/livelife/build')));
+// app.use( express.static(__dirname + '../build'));
+// app.use(express.static(__dirname + '/default.htm'));
+// app.use(express.static(path.join(__dirname , '/build')));
+app.use( express.static(__dirname+'/../build'));
+
+
 
 const port = 8080;
 
