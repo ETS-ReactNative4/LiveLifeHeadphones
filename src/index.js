@@ -4,6 +4,11 @@ import './index.css';
 import App from './App';
 // import registerServiceWorker from './registerServiceWorker';
 import tabtwo from './tabtwo';
+import tabtwo1 from './tabtwo1';
+import tabtwo2 from './tabtwo2';
+import tabtwo3 from './tabtwo3';
+import tabtwo4 from './tabtwo4';
+
 import tabtwob from './tabtwob';
 import tabthree from './tabthree';
 import tabfour from './tabfour';
@@ -23,6 +28,11 @@ ReactDOM.render(
                 <Route path = "/tabfour" component= {tabfour} />
                 <Route path = "/tabfive" component= {tabfive} />
                 <Route path = "/aboutus" component= {aboutus} />
+                <Route path = "/tabtwo1" component= {tabtwo1} />
+                <Route path = "/tabtwo2" component= {tabtwo2} />
+                <Route path = "/tabtwo3" component= {tabtwo3} />
+                <Route path = "/tabtwo4" component= {tabtwo4} />
+
 
             </Switch>
         </div>

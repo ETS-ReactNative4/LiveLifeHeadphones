@@ -92,23 +92,23 @@ class tabtwo extends Component {
             </div>
                     <div className="pic3bacd">
             
-    <a className="gallery" href ="https://livelifeheadphones.smugmug.com/Silent-skate-Party"> Skate Party Atlanta
-                      <img src="https://photos.smugmug.com/Silent-skate-Party/i-DZnCgGt/0/bc31c1fc/XL/MVI_1355-XL.jpg" className="gallery5">
+           <a className="gallery" href ="https://livelifeheadphones.smugmug.com/Aurum-Lounge-Silent-Party-41418/"> 4.14 Aurum Atlanta
+                      <img src="https://photos.smugmug.com/Aurum-Lounge-Silent-Party-41418/i-njKHZnn/0/2552d406/M/IMG_0909-M.jpg" className="gallery5">
                    </img>
                     </a>
-                    <a className="gallery" href ="https://livelifeheadphones.smugmug.com/Trap---B---AUG-5-5/"> 5.5 Trap and B Augusta
-                      <img src="https://photos.smugmug.com/Trap---B---AUG-5-5/i-5H5R4Qz/0/5e281bf6/M/DSC_0553-M.jpg" className="gallery5">
+                     <a className="gallery" href ="https://livelifeheadphones.smugmug.com/ATL-Silent-Party-Encore-Lounge-31718/"> 3.17 Encore Atlanta
+                                           <img src="https://photos.smugmug.com/ATL-Silent-Party-Encore-Lounge-31718/i-9gq8sF6/0/1712d74a/M/IMG_0591-M.jpg" className="gallery5">
                    </img>
                     </a>
                    
                 
-                 
+               
                    
                       <div className="gallery6">
-                  <Link className="knot2" to="/tabtwo">
+                  <Link className="knot2" to="/tabtwo1">
                       <i class="fas fa-arrow-circle-left"></i>
                    </Link>
-                    <Link className="knot2" to="/tabtwo1">
+                    <Link className="knot2" to="/tabtwo3">
                       <i class="fas fa-arrow-circle-right"></i>
                 </Link>
                 </div>
@@ -137,7 +137,8 @@ class tabtwo extends Component {
                   <i class="far fa-caret-square-right"></i>
                 </Link>
           </div>
-          <div className="BLT2"/>
+                    <div className="BLT2"/>
+
            <div className="BLB2">
                 <Link className="BLC" to="/tabtwo"> GO </Link>
 
