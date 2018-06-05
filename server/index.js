@@ -12,6 +12,6 @@ app.use( express.static(`${__dirname}/../build`));
 // });
 
 
-const port = 80;
+const port = 8080;
 
 app.listen( port, () => { console.log(`Server listening on port ${port}.`); } ); 
