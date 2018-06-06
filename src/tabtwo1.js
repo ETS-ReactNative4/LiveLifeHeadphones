@@ -93,13 +93,13 @@ class tabtwo extends Component {
                     <div className="pic3bacd">
             
    
-                         <a className="gallery" href ="https://livelifeheadphones.smugmug.com/Silent-Party-Alibi-5518/"> 5.5 Alibi Atlanta
-                      <img src="https://photos.smugmug.com/Silent-Party-Alibi-5518/i-2c83kGz/0/1300b292/M/IMG_1112-M.jpg" className="gallery5">
-                   </img>
+                  <a className="gallery" href ="https://livelifeheadphones.smugmug.com/Orange-Crush-2k18/"> 4.21OrangeCrushSavannah
+                       <img src="https://photos.smugmug.com/Orange-Crush-2k18/i-hztjSjM/0/6c7c00a4/M/IMG_5693-M.jpg" className="gallery5">
+                        </img>
                     </a>
-                     <a className="gallery" href ="https://livelifeheadphones.smugmug.com/Live-Oak-4-25-18/"> 4.25 Live Oak Houston
+                    <a className="gallery" href ="https://livelifeheadphones.smugmug.com/Live-Oak-4-25-18/"> 4.25 Live Oak Houston
                       <img src="https://photos.smugmug.com/Live-Oak-4-25-18/i-tcbSjjv/0/f52e42d2/M/DSC_0051-M.jpg" className="gallery5">
-                   </img>
+                        </img>
                     </a>
                 
                  

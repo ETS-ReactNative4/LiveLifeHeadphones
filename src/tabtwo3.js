@@ -92,14 +92,13 @@ class tabtwo extends Component {
             </div>
                     <div className="pic3bacd">
             
-             <a className="gallery" href ="https://livelifeheadphones.smugmug.com/Orange-Crush-2k18/"> 4.21OrangeCrushSavannah
-                                           <img src="https://photos.smugmug.com/Orange-Crush-2k18/i-hztjSjM/0/6c7c00a4/M/IMG_5693-M.jpg" className="gallery5">
-                   </img>
+                  <a className="gallery" href ="https://livelifeheadphones.smugmug.com/Pics/"> 5.25 Dj Holiday Atlanta
+                      <img src="https://photos.smugmug.com/Pics/i-HchNFGW/0/404b065c/XL/1%20%281%20of%201%29-XL.jpg" className="gallery5">
+                        </img>
                     </a>
-
-                      <a className="gallery" href ="https://livelifeheadphones.smugmug.com/Silent-Party-Alibi-5202018"> 5/20 Alibi Atlanta
-                      <img src="https://photos.smugmug.com/Silent-Party-Alibi-5202018/i-fncmwLF/0/c8007938/X3/IMG_1578-X3.jpg" className="gallery5">
-                   </img>
+                    <a className="gallery" href ="https://livelifeheadphones.smugmug.com/52818-With-Holiday"> 5.28 Dj Holiday Atlanta
+                      <img src="https://photos.smugmug.com/52818-With-Holiday/i-bJdDQmw/0/49be024c/XL/5.28.18%20With%20DjHoliday%20Extended%202%20min%20%28%40ItsJusDarren%29-XL.jpg" className="gallery5">
+                        </img>
                     </a>
                    
              
@@ -108,7 +107,7 @@ class tabtwo extends Component {
                   <Link className="knot2" to="/tabtwo2">
                       <i class="fas fa-arrow-circle-left"></i>
                    </Link>
-                    <Link className="knot2" to="/tabtwo3">
+                    <Link className="knot2" to="/tabtwo4">
                       <i class="fas fa-arrow-circle-right"></i>
                 </Link>
                 </div>

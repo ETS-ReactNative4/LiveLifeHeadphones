@@ -27,23 +27,30 @@ class tabtwo extends Component {
 
           <div className="middle">
                <div className="pic3">
-            
-                <a className="gallery" href ="https://livelifeheadphones.smugmug.com/Silent-Party-Alibi-5202018"> 5/20 Alibi Atlanta
-                      <img src="https://photos.smugmug.com/Silent-Party-Alibi-5202018/i-fncmwLF/0/c8007938/X3/IMG_1578-X3.jpg" className="gallery">
-                   </img>
+                    
+                 
+                      <a className="gallery" href ="https://livelifeheadphones.smugmug.com/52818-With-Holiday"> 5.28 Dj Holiday Atlanta
+                      <img src="https://photos.smugmug.com/52818-With-Holiday/i-bJdDQmw/0/49be024c/XL/5.28.18%20With%20DjHoliday%20Extended%202%20min%20%28%40ItsJusDarren%29-XL.jpg" className="gallery">
+                        </img>
                     </a>
+                      <a className="gallery" href ="https://livelifeheadphones.smugmug.com/Live-Oak-May-30/"> 5.30 Live Oak Houston
+                      <img src="https://photos.smugmug.com/Live-Oak-May-30/i-hrqBW4w/0/82e12e91/M/IMG_0217-M.jpg" className="gallery">
+                        </img>
+                    </a>
+                      <a className="gallery" href ="https://livelifeheadphones.smugmug.com/Encore-Lounge-6218"> 6.2 Encore Atlanta
+                      <img src="https://photos.smugmug.com/Encore-Lounge-6218/i-7FZQ45s/0/f26b57b8/X3/IMG_1616-X3.jpg" className="gallery">
+                        </img>
+                    </a>
+             
                     <a className="gallery">
                         </a>
                      <a className="gallery">
                         </a>
                      <a className="gallery">
                         </a>
-                     <a className="gallery">
+                        <a className="gallery">
                         </a>
-                     <a className="gallery">
-                        </a>
-                     <a className="gallery">
-                        </a>
+                    
                     <div className="gallery4">
                   <Link className="knot2" to="/tabtwo">
                       <i class="fas fa-arrow-circle-left"></i>

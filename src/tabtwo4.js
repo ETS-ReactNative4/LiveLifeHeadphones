@@ -92,18 +92,17 @@ class tabtwo extends Component {
             </div>
                     <div className="pic3bacd">
             
-   
+        <a className="gallery" href ="https://livelifeheadphones.smugmug.com/Live-Oak-May-30/"> 5.30 Live Oak Houston
+                      <img src="https://photos.smugmug.com/Live-Oak-May-30/i-hrqBW4w/0/82e12e91/M/IMG_0217-M.jpg" className="gallery5">
+                        </img>
+                    </a>
+                      <a className="gallery" href ="https://livelifeheadphones.smugmug.com/Encore-Lounge-6218"> 6.2 Encore Atlanta
+                      <img src="https://photos.smugmug.com/Encore-Lounge-6218/i-7FZQ45s/0/f26b57b8/X3/IMG_1616-X3.jpg" className="gallery5">
+                        </img>
+                    </a>
                    
                 
-                     <a className="gallery" href ="https://livelifeheadphones.smugmug.com/Aurum-Lounge-Silent-Party-41418/"> 4.14 Aurum Atlanta
-                      <img src="https://photos.smugmug.com/Aurum-Lounge-Silent-Party-41418/i-njKHZnn/0/2552d406/M/IMG_0909-M.jpg" className="gallery5">
-                   </img>
-                    </a>
-
-                       <a className="gallery" href ="https://livelifeheadphones.smugmug.com/Aurum-Lounge-Silent-Party-41418/"> 4.14 Aurum Atlanta
-                      <img src="https://photos.smugmug.com/Aurum-Lounge-Silent-Party-41418/i-njKHZnn/0/2552d406/M/IMG_0909-M.jpg" className="gallery5">
-                   </img>
-                    </a>
+                
                    
                       <div className="gallery6">
                   <Link className="knot2" to="/tabtwo3">

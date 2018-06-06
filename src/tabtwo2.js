@@ -92,13 +92,13 @@ class tabtwo extends Component {
             </div>
                     <div className="pic3bacd">
             
-           <a className="gallery" href ="https://livelifeheadphones.smugmug.com/Aurum-Lounge-Silent-Party-41418/"> 4.14 Aurum Atlanta
-                      <img src="https://photos.smugmug.com/Aurum-Lounge-Silent-Party-41418/i-njKHZnn/0/2552d406/M/IMG_0909-M.jpg" className="gallery5">
-                   </img>
+             <a className="gallery" href ="https://livelifeheadphones.smugmug.com/Trap---B---AUG-5-5/"> 5.5 Trap and B Augusta
+                      <img src="https://photos.smugmug.com/Trap---B---AUG-5-5/i-5H5R4Qz/0/5e281bf6/M/DSC_0553-M.jpg" className="gallery5">
+                       </img>
                     </a>
-                     <a className="gallery" href ="https://livelifeheadphones.smugmug.com/ATL-Silent-Party-Encore-Lounge-31718/"> 3.17 Encore Atlanta
-                                           <img src="https://photos.smugmug.com/ATL-Silent-Party-Encore-Lounge-31718/i-9gq8sF6/0/1712d74a/M/IMG_0591-M.jpg" className="gallery5">
-                   </img>
+                     <a className="gallery" href ="https://livelifeheadphones.smugmug.com/Silent-Party-Alibi-5518/"> 5.20 Alibi Atlanta
+                      <img src="https://photos.smugmug.com/Silent-Party-Alibi-5518/i-2c83kGz/0/1300b292/M/IMG_1112-M.jpg" className="gallery5">
+                        </img>
                     </a>
                    
                 

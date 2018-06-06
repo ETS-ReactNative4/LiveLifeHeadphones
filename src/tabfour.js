@@ -37,6 +37,7 @@ class tabtwo extends Component {
             <div className="pic3b">
                <div className="H3">JUNE
                 <div className="BX"> <big>2</big> Encore Atlanta</div>
+                <div className="BX"> <big>4</big> UGA Student Orientation Athens</div>
                 <div className="BX"> <big>7</big> Art Show  Atlanta </div>
                 <div className="BX"> <big>9</big> Tribeca  Augusta </div>
                 <div className="BX"> <big>9</big> Alibi Rooftop  Atlanta </div>
@@ -73,6 +74,7 @@ class tabtwo extends Component {
             </div>
                <div className="H4">JUNE
                 <div className="BZ"> <big>2</big> Encore Atlanta</div>
+                <div className="BZ"> <big>4</big> UGA Student Orientation Athens</div>
                 <div className="BZ"> <big>7</big> Art Show  Atlanta </div>
                 <div className="BZ"> <big>9</big> Tribeca  Augusta </div>
                 <div className="BZ"> <big>9</big> Alibi Rooftop  Atlanta </div>
