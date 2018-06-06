@@ -94,8 +94,7 @@ class tabtwo extends Component {
                 <div className="BZ"> <big>25</big> Live Oak Houston </div>
 
               </div>
-                <div className="H4">AUGUST
-                <div className="BZ"> Coming Soon...</div>
+                <div className="H4">AUGUST Coming Soon...
               </div>
             
               
