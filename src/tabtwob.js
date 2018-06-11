@@ -41,13 +41,20 @@ class tabtwo extends Component {
                       <img src="https://photos.smugmug.com/Encore-Lounge-6218/i-7FZQ45s/0/f26b57b8/X3/IMG_1616-X3.jpg" className="gallery">
                         </img>
                     </a>
+                         <a className="gallery" href ="https://livelifeheadphones.smugmug.com/UGA-5518/"> 6.5 UGA Athens
+                      <img src="https://photos.smugmug.com/UGA-5518/i-r4WtnF4/0/b18e8b8a/L/31%20%281%20of%201%29-L.jpg" className="gallery">
+                        </img>
+                    </a>
+                         <a className="gallery" href ="https://livelifeheadphones.smugmug.com/Silent-Headphone-Party-Alibi-6918"> 6.9 Alibi Rooftop Atlanta
+                      <img src="https://photos.smugmug.com/Silent-Headphone-Party-Alibi-6918/i-bPmd5GP/0/b829593b/XL/IMG_1735-XL.jpg" className="gallery">
+                        </img>
+                    </a>
+                         <a className="gallery" href ="https://livelifeheadphones.smugmug.com/TrapB-Augusta-6918/"> 6.9 Trap&B Augusta
+                      <img src="https://photos.smugmug.com/TrapB-Augusta-6918/i-G8PMxpH/0/081d80b8/X3/IMG_0355-X3.png" className="gallery">
+                        </img>
+                    </a>
              
-                    <a className="gallery">
-                        </a>
-                     <a className="gallery">
-                        </a>
-                     <a className="gallery">
-                        </a>
+                 
                         <a className="gallery">
                         </a>
                     

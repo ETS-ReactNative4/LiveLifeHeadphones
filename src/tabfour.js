@@ -51,7 +51,6 @@ class tabtwo extends Component {
                  <div className="BX"> <big>6</big> Flavor Fridays Houston</div>
                 <div className="BX"> <big>7</big> Trap&B  Augusta </div>
                 <div className="BX"> <big>14</big> Encore - Kappa Party  Atlanta </div>
-                <div className="BX"> <big>15</big> San Antonio Convention </div>
                 <div className="BX"> <big>25</big> Live Oak Houston </div>
 
               </div>
@@ -90,7 +89,6 @@ class tabtwo extends Component {
                 <div className="BZ"> <big>6</big> Flavor Fridays Houston</div>
                 <div className="BZ"> <big>7</big> Trap&B  Augusta </div>
                 <div className="BZ"> <big>14</big> Encore - Kappa Party  Atlanta </div>
-                <div className="BZ"> <big>15</big> San Antonio Convention </div>
                 <div className="BZ"> <big>25</big> Live Oak Houston </div>
 
               </div>

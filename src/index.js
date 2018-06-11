@@ -8,6 +8,8 @@ import tabtwo1 from './tabtwo1';
 import tabtwo2 from './tabtwo2';
 import tabtwo3 from './tabtwo3';
 import tabtwo4 from './tabtwo4';
+import tabtwo5 from './tabtwo5';
+import tabtwo6 from './tabtwo6';
 
 import tabtwob from './tabtwob';
 import tabthree from './tabthree';
@@ -32,6 +34,9 @@ ReactDOM.render(
                 <Route path = "/tabtwo2" component= {tabtwo2} />
                 <Route path = "/tabtwo3" component= {tabtwo3} />
                 <Route path = "/tabtwo4" component= {tabtwo4} />
+                <Route path = "/tabtwo5" component= {tabtwo5} />
+                <Route path = "/tabtwo6" component= {tabtwo6} />
+
 
 
             </Switch>

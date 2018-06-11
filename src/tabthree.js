@@ -49,9 +49,11 @@ class tabtwo extends Component {
             
              <div className="howto2"> CONCERTS</div>
              <div className="howto2"> WEDDINGS</div>
+             <div className="howto2"> ART SHOWS</div>
 
              <div className="howto2"> SKATE NIGHTS</div>
              <div className="howto2"> ARTIST MUSIC RELEASES</div>
+             
           
         
               </div>
@@ -69,6 +71,7 @@ class tabtwo extends Component {
             
              <div className="howto3"> CONCERTS</div>
              <div className="howto3"> WEDDINGS</div>
+             <div className="howto3"> ART SHOWS</div>
 
              <div className="howto3"> SKATE NIGHTS</div>
              <div className="howto3"> ARTIST MUSIC RELEASES</div>

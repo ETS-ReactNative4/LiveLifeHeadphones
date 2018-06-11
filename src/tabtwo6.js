@@ -92,23 +92,23 @@ class tabtwo extends Component {
             </div>
                     <div className="pic3bacd">
             
-        <a className="gallery" href ="https://livelifeheadphones.smugmug.com/Live-Oak-May-30/"> 5.30 Live Oak Houston
-                      <img src="https://photos.smugmug.com/Live-Oak-May-30/i-hrqBW4w/0/82e12e91/M/IMG_0217-M.jpg" className="gallery5">
+                           <a className="gallery" href ="https://livelifeheadphones.smugmug.com/TrapB-Augusta-6918/"> 6.9 Trap&B Augusta
+                      <img src="https://photos.smugmug.com/TrapB-Augusta-6918/i-G8PMxpH/0/081d80b8/X3/IMG_0355-X3.png" className="gallery5">
                         </img>
                     </a>
-                      <a className="gallery" href ="https://livelifeheadphones.smugmug.com/Encore-Lounge-6218"> 6.2 Encore Atlanta
-                      <img src="https://photos.smugmug.com/Encore-Lounge-6218/i-7FZQ45s/0/f26b57b8/X3/IMG_1616-X3.jpg" className="gallery5">
-                        </img>
-                    </a>
+             
+                 
+                        <a className="gallery">
+                        </a>
                    
                 
                 
                    
                       <div className="gallery6">
-                  <Link className="knot2" to="/tabtwo3">
+                  <Link className="knot2" to="/tabtwo5">
                       <i class="fas fa-arrow-circle-left"></i>
                    </Link>
-                    <Link className="knot2" to="/tabtwo5">
+                    <Link className="knot2" to="/tabtwo6">
                       <i class="fas fa-arrow-circle-right"></i>
                 </Link>
                 </div>
