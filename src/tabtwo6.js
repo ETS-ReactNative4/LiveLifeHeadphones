@@ -93,7 +93,7 @@ class tabtwo extends Component {
                     <div className="pic3bacd">
             
                            <a className="gallery" href ="https://livelifeheadphones.smugmug.com/TrapB-Augusta-6918/"> 6.9 Trap&B Augusta
-                      <img src="https://photos.smugmug.com/TrapB-Augusta-6918/i-G8PMxpH/0/081d80b8/X3/IMG_0355-X3.png" className="gallery5">
+                      <img src="https://photos.smugmug.com/TrapB-Augusta-6918/i-zjvC338/0/6487e98f/M/1%20%281%20of%201%29-M.jpg" className="gallery5">
                         </img>
                     </a>
              

@@ -51,7 +51,7 @@ class App extends Component {
            <div className="pic">
               
              {/* <iframe className="KF"src="https://player.vimeo.com/video/270964915?&autoplay=1&loop=1" width="1140" height="643" frameborder="0" webkitallowfullscreen mozallowfullscreen="true" allowfullscreen></iframe> */}
-             <iframe src="https://player.vimeo.com/video/271002021?title=0&byline=0&portrait=0&autoplay=1&loop=1" width="1140" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen="true" allowfullscreen></iframe>
+             <iframe src="https://player.vimeo.com/video/274594325?title=0&byline=0&portrait=0&autoplay=1&loop=1" width="1140" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen="true" allowfullscreen></iframe>
           </div> 
 
            </div>
@@ -61,7 +61,7 @@ class App extends Component {
            <div className="picx">
               
              {/* <iframe className="KF"src="https://player.vimeo.com/video/270964915?&autoplay=1&loop=1" width="1140" height="643" frameborder="0" webkitallowfullscreen mozallowfullscreen="true" allowfullscreen></iframe> */}
-             <iframe src="https://player.vimeo.com/video/271002021?title=0&byline=0&portrait=0&autoplay=1&loop=1" width="1140" height="300" frameborder="0" webkitallowfullscreen mozallowfullscreen="true" allowfullscreen></iframe>
+             <iframe src="https://player.vimeo.com/video/274594325?title=0&byline=0&portrait=0&autoplay=1&loop=1" width="1140" height="300" frameborder="0" webkitallowfullscreen mozallowfullscreen="true" allowfullscreen></iframe>
           </div> 
 
            </div>
