@@ -67,6 +67,10 @@ class tabtwo extends Component {
                                            <img src="https://photos.smugmug.com/Orange-Crush-2k18/i-hztjSjM/0/6c7c00a4/M/IMG_5693-M.jpg" className="gallery">
                    </img>
                     </a>
+                        <a className="gallery" href ="https://livelifeheadphones.smugmug.com/Golden-Glide-Skating-Rink-Silent-Headphone-Party-62118/"> 6.21 Golden Glide Atlanta
+                      <img src="https://photos.smugmug.com/Golden-Glide-Skating-Rink-Silent-Headphone-Party-62118/i-scGxg9G/0/97c51eac/M/IMG_2638-M.jpg" className="gallery">
+                        </img>
+                    </a>
                       <div className="gallery4">
                   <Link className="knot2" to="/tabtwo">
                       <i class="fas fa-arrow-circle-left"></i>
@@ -96,10 +100,13 @@ class tabtwo extends Component {
                       <img src="https://photos.smugmug.com/TrapB-Augusta-6918/i-zjvC338/0/6487e98f/M/1%20%281%20of%201%29-M.jpg" className="gallery5">
                         </img>
                     </a>
+                          <a className="gallery" href ="https://livelifeheadphones.smugmug.com/Golden-Glide-Skating-Rink-Silent-Headphone-Party-62118/"> 6.21 Golden Glide Atlanta
+                      <img src="https://photos.smugmug.com/Golden-Glide-Skating-Rink-Silent-Headphone-Party-62118/i-scGxg9G/0/97c51eac/M/IMG_2638-M.jpg" className="gallery5">
+                        </img>
+                    </a>
              
                  
-                        <a className="gallery">
-                        </a>
+                      
                    
                 
                 

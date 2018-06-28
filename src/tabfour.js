@@ -48,8 +48,14 @@ class tabtwo extends Component {
 
               </div>
                <div className="H3">JULY
-                 <div className="BX"> <big>6</big> Flavor Fridays Houston</div>
+                     <div className="BX"> <big>4</big> Blue Room Atlanta</div>
+
+               <div className="BX"> <big>4</big> Live Oak Lounge</div>
+
+                <div className="BX"> <big>6</big> Therapy Lounge Houston</div>
                 <div className="BX"> <big>7</big> Trap&B  Augusta </div>
+               <div className="BX"> <big>13</big> Aurum Lounge Steetz 94.5 </div>
+
                 <div className="BX"> <big>14</big> Encore - Kappa Party  Atlanta </div>
                 <div className="BX"> <big>25</big> Live Oak Houston </div>
 
@@ -86,8 +92,14 @@ class tabtwo extends Component {
 
               </div>
                <div className="H4">JULY
-                <div className="BZ"> <big>6</big> Flavor Fridays Houston</div>
+              <div className="BZ"> <big>4</big> Blue Room Atlanta</div>
+
+               <div className="BZ"> <big>4</big> Live Oak Lounge</div>
+
+                <div className="BZ"> <big>6</big> Therapy Lounge Houston</div>
                 <div className="BZ"> <big>7</big> Trap&B  Augusta </div>
+               <div className="BZ"> <big>13</big> Aurum Lounge Steetz 94.5 </div>
+
                 <div className="BZ"> <big>14</big> Encore - Kappa Party  Atlanta </div>
                 <div className="BZ"> <big>25</big> Live Oak Houston </div>
 

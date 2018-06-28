@@ -782,7 +782,7 @@ color: black;
 }
 
 .party1 {
-  background-image: url("../src/encore.jpg");
+  background-image: url("");
   background-repeat: no-repeat;
   background-size: 100% 100%; 
   height: 190px;
@@ -791,7 +791,7 @@ color: black;
 
 
 .party2 {
-  background-image: url("../src/encore2.jpg");
+  background-image: url("");
   background-repeat: no-repeat;
   background-size: 100% 100%; 
   height: 190px;
@@ -801,7 +801,7 @@ color: black;
 
 
 .party3 {
-  background-image: url("../src/encore3.png");
+  background-image: url("");
    background-repeat: no-repeat;
   background-size: 100% 100%;  
   height: 360px;
@@ -811,7 +811,7 @@ color: black;
 
 
 .party5 {
-  background-image: url("../src/encore5.jpg");
+  background-image: url("");
   background-repeat: no-repeat;
   background-size: 100% 100%; 
   height: 190px;
@@ -819,7 +819,7 @@ color: black;
 }
 
 .UE1 {
-  background-image: url("../src/encore5.jpg");
+  background-image: url("");
   background-repeat: no-repeat;
   background-size: 100% 100%; 
   height: 350px;
@@ -827,7 +827,7 @@ color: black;
 }
 
 .UE2 {
-  background-image: url("../src/encore3.jpg");
+  background-image: url("");
   background-repeat: no-repeat;
   background-size: 100% 100%; 
   height: 350px;
