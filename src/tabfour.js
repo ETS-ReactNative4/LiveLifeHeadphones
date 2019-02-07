@@ -35,34 +35,40 @@ class tabtwo extends Component {
 
           <div className="middle">
             <div className="pic3b">
-               <div className="H3">JUNE
-                <div className="BX"> <big>2</big> Encore Atlanta</div>
-                <div className="BX"> <big>4</big> UGA Student Orientation Athens</div>
-                <div className="BX"> <big>7</big> Art Show  Atlanta </div>
-                <div className="BX"> <big>9</big> Tribeca  Augusta </div>
-                <div className="BX"> <big>9</big> Alibi Rooftop  Atlanta </div>
-                <div className="BX"> <big>21</big> Golden Glide  Atlanta </div>
-                <div className="BX"> <big>27</big> Live Oak Houston </div>
-                <div className="BX"> <big>28</big> Upward Bound </div>
-                <div className="BX"> <big>29</big> Mirza Lounge </div>
+               <div className="H3">FEBRUARY
+                <div className="BX"> <big>1</big> Ga State Panther Prowl</div>
+                <div className="BX"> <big>1</big> Feel Good Fridays Arif  Atlanta</div>
+
+                <div className="BX"> <big>2</big> Silent Step Atlanta </div>
+                <div className="BX"> <big>8</big> Feel Good Fridays Arif  Atlanta </div>
+                <div className="BX"> <big>8</big> Paine College Homecoming </div>
+                <div className="BX"> <big>8</big> Atlanta Kick </div>
+
+                <div className="BX"> <big>9</big> Trap & B  Augusta </div>
+                <div className="BX"> <big>9</big> All American Skating Event  Atlanta </div>
+                <div className="BX"> <big>9</big> Elizabeth City State University </div>
+
+                <div className="BX"> <big>12</big> $2 Tuesday Augusta </div>
+                <div className="BX"> <big>14</big> Miller Grove High School </div>
+               
+
+                
+               
 
               </div>
-               <div className="H3">JULY
-                     <div className="BX"> <big>4</big> Blue Room Atlanta</div>
-
-               <div className="BX"> <big>4</big> Live Oak Lounge</div>
-
-                <div className="BX"> <big>6</big> Therapy Lounge Houston</div>
-                <div className="BX"> <big>7</big> Trap&B  Augusta </div>
-               <div className="BX"> <big>13</big> Aurum Lounge Steetz 94.5 </div>
-
-                <div className="BX"> <big>14</big> Encore - Kappa Party  Atlanta </div>
-                <div className="BX"> <big>25</big> Live Oak Houston </div>
-
+               <div className="H3"> __________
+                     <div className="BX"> <big>15</big> Feel Good Gridays Arif Atlanta </div>
+                <div className="BX"> <big>15</big> Ohio Silent Skate  Cincinnati </div>
+                <div className="BX"> <big>16</big> Savannah State University </div>
+                <div className="BX"> <big>16</big> Virginia Commonwealth Conference </div>
+                <div className="BX"> <big>16</big> Silent Fit Camp  Atlanta </div>
+                <div className="BX"> <big>20</big> Georgia Tech Basketball Game </div>
+                <div className="BX"> <big>21</big> Cascade Atlanta Silent Skate </div>
+                <div className="BX"> <big>22</big> Feel Good Fridays Arif  Atlanta </div>
+                <div className="BX"> <big>22</big> E.L. Miller Elementary Atlanta </div>
+                <div className="BX"> <big>28</big> University of Mississippi </div>
               </div>
-               <div className="H3">AUGUST
-                <div className="BD"> Coming Soon...</div>
-              </div>
+            
             
               
             </div>
@@ -77,34 +83,37 @@ class tabtwo extends Component {
             <div className="phrase4a">
             <div className="contactusb">CALENDAR</div>
             </div>
-               <div className="H4">JUNE
-                <div className="BZ"> <big>2</big> Encore Atlanta</div>
-                <div className="BZ"> <big>4</big> UGA Student Orientation Athens</div>
-                <div className="BZ"> <big>7</big> Art Show  Atlanta </div>
-                <div className="BZ"> <big>9</big> Tribeca  Augusta </div>
-                <div className="BZ"> <big>9</big> Alibi Rooftop  Atlanta </div>
-                <div className="BZ"> <big>21</big> Golden Glide  Atlanta </div>
-                <div className="BZ"> <big>27</big> Live Oak Houston </div>
-                <div className="BZ"> <big>28</big> Upward Bound </div>
-                <div className="BZ"> <big>29</big> Mirza Lounge </div>
+               <div className="H4">FEBRUARY
+                <div className="BZ"> <big>1</big>Ga St PantherProwl/FeelGoodFridayArif</div>
+
+                <div className="BZ"> <big>2</big> Silent Step Atlanta </div>
+                <div className="BZ"> <big>8</big> Feel Good Fridays Arif  Atlanta </div>
+                <div className="BZ"> <big>8</big> Paine College Homecoming/ATL Kick </div>
+
+                <div className="BZ"> <big>9</big> Trap&B AUG/ Elizabeth City State Uni. </div>
+                <div className="BZ"> <big>9</big> All American Skating Event  Atlanta </div>
+
+                <div className="BZ"> <big>12</big> $2 Tuesday Augusta </div>
+                <div className="BZ"> <big>14</big> Miller Grove High School </div>
+               
+            
 
 
 
               </div>
-               <div className="H4">JULY
-              <div className="BZ"> <big>4</big> Blue Room Atlanta</div>
-
-               <div className="BZ"> <big>4</big> Live Oak Lounge</div>
-
-                <div className="BZ"> <big>6</big> Therapy Lounge Houston</div>
-                <div className="BZ"> <big>7</big> Trap&B  Augusta </div>
-               <div className="BZ"> <big>13</big> Aurum Lounge Steetz 94.5 </div>
-
-                <div className="BZ"> <big>14</big> Encore - Kappa Party  Atlanta </div>
-                <div className="BZ"> <big>25</big> Live Oak Houston </div>
+               <div className="H4">
+                <div className="BZ"> <big>15</big> Feel Good Gridays Arif Atlanta </div>
+                <div className="BZ"> <big>15</big> Ohio Silent Skate  Cincinnati </div>
+                <div className="BZ"> <big>16</big> Sav St Univ/ VA Commonwealth Conf </div>
+                <div className="BZ"> <big>16</big> Silent Fit Camp  Atlanta </div>
+                <div className="BZ"> <big>20</big> Georgia Tech Basketball Game </div>
+                <div className="BZ"> <big>21</big> Cascade Atlanta Silent Skate </div>
+                <div className="BZ"> <big>22</big> Feel Good Fridays Arif  Atlanta </div>
+                <div className="BZ"> <big>22</big> E.L. Miller Elementary Atlanta </div>
+                <div className="BZ"> <big>28</big> University of Mississippi </div>
 
               </div>
-                <div className="H4">AUGUST Coming Soon...
+                <div className="H4"> Coming Soon...
               </div>
             
               
